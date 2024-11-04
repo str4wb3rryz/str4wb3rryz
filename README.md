@@ -8,10 +8,14 @@ Hi there! I'm a passionate IT student with experience in software development, f
 # 🚀 Projects
 | Project name | Type of project | Language | Description | Year |
 |-|-|-|-|-|
-| [PersonalFinances (CRO)](https://github.com/str4wb3rryz/PersonalFinances) | Individual project | C# | | 2023. | <br>
-| [FOI Hangout (CRO)](https://github.com/str4wb3rryz/FOIHangout) | Group project | C# | registration, login, editing user profile, posting and commenting on forum, making and voting in polls | 2024. | <br>
-| [ParkIn (CRO)](https://github.com/str4wb3rryz/ParkIn) | Group project | Kotlin | login and registration, direction display to selected parking, display of favorite spots | 2024. | <br>
-| [Betrayed Trust (ENG)](https://github.com/AILab-FOI/PRRI-CognitiveAgents2024) | Group project | HTML,CSS | graphical user interface | 2024. 
+| [PersonalFinances (CRO)](https://github.com/str4wb3rryz/PersonalFinances) | Individual college project | C# | personal finance tracking tool | March 2023. - May 2023. | <br>
+| [FOI Hangout (CRO)](https://github.com/str4wb3rryz/FOIHangout) | Group college  project | C# | registration, login, editing user profile, posting and commenting on forum, making and voting in polls | October 2023. - July 2024. | <br>
+| [ParkIn (CRO)](https://github.com/str4wb3rryz/ParkIn) | Group college  project | Kotlin | login and registration, direction display to selected parking, display of favorite spots | October 2023. - February 2024. | <br>
+| [Betrayed Trust (ENG)](https://github.com/AILab-FOI/PRRI-CognitiveAgents2024) | Group college  project | HTML,CSS | graphical user interface | March 2024. - June 2024. | <br>
+## Currently working on:
+| Project name | Type of project | Language | Description | Year |
+|-|-|-|-|-|
+| CipherCrypt | Individual college  project | C# | cryptography and digital signature| October 2024. - | <br>
 
  
 # 💻 Tech Stack:
