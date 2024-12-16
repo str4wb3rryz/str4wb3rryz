@@ -23,7 +23,7 @@ Hi there! I'm a passionate IT student with experience in software development, f
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=str4wb3rryz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=str4wb3rryz&theme=dark&hide_border=false)<br/>-->
-[![Top Langs](https://github-readme-stats-glsm-str4wb3rryzs-projects.vercel.app/api/top-langs/?username=str4wb3rryz)](https://github.com/str4wb3rryz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-str4wb3rryzs-projects.vercel.app/api/top-langs/?username=str4wb3rryz)](https://github.com/str4wb3rryz/github-readme-stats)
 
 
  ## 💰 You can help me by Donating
