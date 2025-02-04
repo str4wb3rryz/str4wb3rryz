@@ -9,11 +9,12 @@ Hi there! I'm a passionate IT student with experience in software development, f
 *Please note that projects labeled as "college project" are located on my college account and are most likely privated*
 | Project name | Type of project | Language | Description | Work period |
 |-|-|-|-|-|
-| [PersonalFinances (CRO)](https://github.com/str4wb3rryz/PersonalFinances) | Individual college project | C# | personal finance tracking tool | March 2023. - May 2023. | <br>
-| [FOI Hangout (CRO)](https://github.com/str4wb3rryz/FOIHangout) | Group college  project | C# | desktop app for meeting students of FOI <br> my tasks: registration, login, editing user profile, posting and commenting on forum, making and voting in polls | October 2023. - July 2024. | <br>
-| [ParkIn (CRO)](https://github.com/str4wb3rryz/ParkIn) | Group college  project | Kotlin | mobile app for finding parking spots <br> my tasks: login and registration, direction display to selected parking, display of favorite spots | October 2023. - February 2024. | <br>
-| [Betrayed Trust (ENG)](https://github.com/AILab-FOI/PRRI-CognitiveAgents2024) | Group college  project | HTML,CSS (Monogatari) | graphical user interface for visual novel with AI models | March 2024. - June 2024. | <br>
 | [CipherCrypt (CRO)](https://github.com/str4wb3rryz/CipherCrypt) | Individual college  project | C# | desktop app for cryptography and digital signature | October 2024. - November 2024. | <br>
+| [Betrayed Trust (ENG)](https://github.com/AILab-FOI/PRRI-CognitiveAgents2024) | Group college  project | HTML,CSS (Monogatari) | graphical user interface for visual novel with AI models | March 2024. - June 2024. | <br>
+| [ParkIn (CRO)](https://github.com/str4wb3rryz/ParkIn) | Group college  project | Kotlin | mobile app for finding parking spots <br> my tasks: login and registration, direction display to selected parking, display of favorite spots | October 2023. - February 2024. | <br>
+| [FOI Hangout (CRO)](https://github.com/str4wb3rryz/FOIHangout) | Group college  project | C# | desktop app for meeting students of FOI <br> my tasks: registration, login, editing user profile, posting and commenting on forum, making and voting in polls | October 2023. - July 2024. | <br>
+| [PersonalFinances (CRO)](https://github.com/str4wb3rryz/PersonalFinances) | Individual college project | C# | personal finance tracking tool | March 2023. - May 2023. | <br>
+
 ## Currently working on:
 | Project name | Type of project | Language | Description | Year |
 |-|-|-|-|-|
