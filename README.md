@@ -6,7 +6,7 @@ Hi there! I'm a passionate IT student with experience in software development, f
  -->
  ## 🌐 Socials:
 [![x](https://www.readmecodegen.com/api/social-icon?name=x&size=32e&textAlignment=horizontal&color=%23ffffff&showText=true&textColor=%23ffffff&link=https%3A%2F%2Fx.com%2Fstr4wb3rryz_dev)](https://x.com/str4wb3rryz_dev) <br>
-<!--[![devdotto](https://www.readmecodegen.com/api/social-icon?name=devdotto&size=32&theme=dark&textAlignment=horizontal&showText=true&link=a)](a)-->
+[![devdotto](https://www.readmecodegen.com/api/social-icon?name=devdotto&size=48&theme=dark&textAlignment=horizontal&color=%23ffffff&showText=true&link=https%3A%2F%2Fdev.to%2Fstr4wb3rryz)](https://dev.to/str4wb3rryz)
 
 ## 🚀 Personal projects:
 | Project name | Type of project | Languages I used | Description | Year |
