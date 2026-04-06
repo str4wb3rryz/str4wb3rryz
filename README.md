@@ -8,6 +8,15 @@ Hi there! I'm a passionate IT student with experience in software development, f
 [![x](https://www.readmecodegen.com/api/social-icon?name=x&size=32&textAlignment=horizontal&showText=true&link=https%3A%2F%2Fx.com%2Fstr4wb3rryz_dev)](https://x.com/str4wb3rryz_dev) <br>
 [![devdotto](https://www.readmecodegen.com/api/social-icon?name=devdotto&textAlignment=horizontal&showText=true&link=https%3A%2F%2Fdev.to%2Fstr4wb3rryz)](https://dev.to/str4wb3rryz)
 
+## 🚀 Personal & college projects:
+| Project name | Type of project | Languages I used | Description | Work period |
+|-|-|-|-|-|
+| [Computer Graphics](https://github.com/str4wb3rryz/ComputersGraphics) | Assigmnets & midterms | HTML, Javascript | assigments for implementing 2D and 3D graphics using HTML5 canvas and WebGL | October 2025. - February 2026. | <br>
+| [CipherCrypt](https://github.com/str4wb3rryz/CipherCrypt) | Individual college  project | C# | desktop app for cryptography and digital signature | October 2024. - November 2024. | <br>
+| [PersonalFinances](https://github.com/str4wb3rryz/PersonalFinances) | Individual college project | C# | personal finance tracking tool | March 2023. - May 2023. | <br>
+
+
+
 ## 💻 Tech Stack:
 ![figma](https://www.readmecodegen.com/api/social-icon?name=figma&size=32&textAlignment=horizontal&showText=true)
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&textAlignment=horizontal&showText=true)
