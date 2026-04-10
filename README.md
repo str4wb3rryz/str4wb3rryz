@@ -11,7 +11,7 @@ Hi there! I'm a passionate IT student with experience in software development, f
 ## 🚀 Personal & college projects:
 | Project name | Type of project | Languages I used | Description | Work period |
 |-|-|-|-|-|
-| [Computer Graphics](https://github.com/str4wb3rryz/ComputerGraphics) | Assigmnets & midterms | HTML, Javascript | assigments for implementing 2D and 3D graphics using HTML5 canvas and WebGL | October 2025. - February 2026. | <br>
+| [Computer Graphics](https://github.com/str4wb3rryz/ComputerGraphics) | Assignments & midterms | HTML, Javascript | assignments for implementing 2D and 3D graphics using HTML5 canvas and WebGL | October 2025. - February 2026. | <br>
 | [CipherCrypt](https://github.com/str4wb3rryz/CipherCrypt) | Individual college  project | C# | desktop app for cryptography and digital signature | October 2024. - November 2024. | <br>
 | [PersonalFinances](https://github.com/str4wb3rryz/PersonalFinances) | Individual college project | C# | personal finance tracking tool | March 2023. - May 2023. | <br>
 
