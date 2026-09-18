@@ -11,7 +11,7 @@ Hi there! I'm a passionate IT student with experience in software development, f
 ## 🚀 Personal & college projects:
 | Project name | Type of project | Languages I used | Description | Work period |
 |-|-|-|-|-|
-| [Airline Reservation System](https://github.com/str4wb3rryz/AirlineReservationSystem) | Assigments | Java, Jakarta EE | multi-server airline ticket booking system built on socket-wrapped RESTful web services using Jakarta EE Core Profile/MicroProfile, with a Jakarta MVC and Jakarta WebSocket-based UI, security mechanisms, Jakarta JPA for database access, and JMS for messaging | April 2026. - June 2026. | <br>
+| [Airline Reservation System](https://github.com/str4wb3rryz/AirlineReservationSystem) | Assigments | Java, Jakarta EE | web app for airline ticket booking | April 2026. - June 2026. | <br>
 | [Computer Graphics](https://github.com/str4wb3rryz/ComputerGraphics) | Assignments & midterms | HTML, Javascript | assignments for implementing 2D and 3D graphics using HTML5 canvas and WebGL | October 2025. - February 2026. | <br>
 | [CipherCrypt](https://github.com/str4wb3rryz/CipherCrypt) | Individual college  project | C# | desktop app for cryptography and digital signature | October 2024. - November 2024. | <br>
 | [PersonalFinances](https://github.com/str4wb3rryz/PersonalFinances) | Individual college project | C# | personal finance tracking tool | March 2023. - May 2023. | <br>
